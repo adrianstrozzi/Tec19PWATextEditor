@@ -15,11 +15,21 @@
 
 ## <span style="color:violet">Stack</span>
 
-<span style="color:skyblue">**1 - Webpack**</span> [(link)](https://webpack.js.org/)
+<span style="color:skyblue">**JavaScript**</span>
+
+<span style="color:skyblue">**HTML**</span>
+
+<span style="color:skyblue">**CSS**</span>
+
+<span style="color:skyblue">**Express JS**</span> [(link)] (https://expressjs.com/)
+
+<span style="color:skyblue">**Webpack**</span> [(link)](https://webpack.js.org/)
+
+<span style="color:skyblue">**Heroku**</span> [(link)](https://www.heroku.com)
 
 ## <span style="color:violet">App Link</span>
 
-Use this `link` to access the App: [Adrian Strozzi - PWA Text Editor](new)
+Use this `link` to access the App: [Adrian Strozzi - PWA Text Editor](https://text-editor-adrian-strozzi.herokuapp.com/)
 
 ## <span style="color:violet">Usage</span>
 
@@ -35,13 +45,21 @@ git clone https://github.com/adrianstrozzi/Tec19PWATextEditor.git
 npm install
 ```
 
-3 - Once dependencies have been installed run the following command to `start your server`:
+3 - Once dependencies have been installed run the following command to `start your local server`:
 
 ```sh
-npm start
+npm run start
 ```
 
-4 - Visit the [Video Tutorial](https://youtu.be/Swo3ODC7jt8) for a detailed guide on how to use the App.
+5 - You can now see the `App`:
+
+6 - You can also use the included link to the deployed application in Heroku:
+
+```sh
+https://text-editor-adrian-strozzi.herokuapp.com/
+```
+
+6 - You can write anything in the App and refresh and the data will be saved in the IndexedDB:
 
 ## <span style="color:violet">Credits</span>
 
