@@ -11,7 +11,7 @@
 
 ## <span style="color:violet">Description</span>
 
-> This App is a simple Text Editor that runs in your browser or can be downloaded and work offline.
+> This App is a simple Text Editor that runs in your browser and can be installed as a PWA and work offline.
 
 ## <span style="color:violet">Stack</span>
 
