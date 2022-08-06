@@ -53,13 +53,27 @@ npm run start
 
 5 - You can now see the `App`:
 
+![mainpage](./readme-images/app.png)
+
 6 - You can also use the included link to the deployed application in Heroku:
 
 ```sh
 https://text-editor-adrian-strozzi.herokuapp.com/
 ```
 
-6 - You can write anything in the App and refresh and the data will be saved in the IndexedDB:
+7 - You can write anything in the App and refresh and the data will be saved in the `IndexedDB`:
+
+![mainpage](./readme-images/indexeddb.png)
+
+8 - You can also install this App as a PWA, just click in the `Install Button` and it will be downloaded:
+
+![mainpage](./readme-images/install.png)
+
+9 - This is how the `PWA` will look:
+
+![mainpage](./readme-images/pwa.png)
+
+10 - You can use this App `without internet connection`.
 
 ## <span style="color:violet">Credits</span>
 
