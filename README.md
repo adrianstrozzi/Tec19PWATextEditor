@@ -51,19 +51,23 @@ npm install
 npm run start
 ```
 
-5 - You can now see the `App`:
+4 - You can now see the `App`:
 
 ![mainpage](./readme-images/app.png)
 
-6 - You can also use the included link to the deployed application in Heroku:
+5 - You can also use the included link to the deployed application in Heroku:
 
 ```sh
 https://text-editor-adrian-strozzi.herokuapp.com/
 ```
 
-7 - You can write anything in the App and refresh and the data will be saved in the `IndexedDB`:
+6 - You can write anything in the App and refresh and the data will be saved in the `IndexedDB`:
 
 ![mainpage](./readme-images/indexeddb.png)
+
+7 - You can `clear the storage` by opening to DevTools in Chrome:
+
+![mainpage](./readme-images/clearstorage.png)
 
 8 - You can also install this App as a PWA, just click in the `Install Button` and it will be downloaded:
 
