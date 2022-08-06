@@ -22,7 +22,6 @@ export const putDb = async (id, value) => {
   const request = objStore.put({ id: id, value: value })
   const result = await request;
   console.log('data saved to the jateDB', result);
-  return result;
 };
 
 export const getDb = async () => {
@@ -34,7 +33,6 @@ export const getDb = async () => {
   const request = store.getAll();
   const result = await request;
   console.log('Data saved to jateDB', result);
-  return result;
 };
 
 
