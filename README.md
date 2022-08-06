@@ -21,7 +21,7 @@
 
 <span style="color:skyblue">**CSS**</span>
 
-<span style="color:skyblue">**Express JS**</span> [(link)] (https://expressjs.com/)
+<span style="color:skyblue">**Express JS**</span> [(link)](https://expressjs.com/)
 
 <span style="color:skyblue">**Webpack**</span> [(link)](https://webpack.js.org/)
 
